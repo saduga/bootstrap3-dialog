@@ -1211,6 +1211,7 @@
             type: options.type,
             title: options.title,
             message: options.message,
+            cssClass: options.cssClass,
             closable: options.closable,
             draggable: options.draggable,
             data: {
